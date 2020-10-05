@@ -19,22 +19,28 @@ namespace Grafos
             Console.WriteLine("Numero de arestas");
             numArestas = int.Parse(Console.ReadLine());
             int[,] grafo = new int[numVertices, numArestas];
-            //string[] nomeVertices = new ;
+
+            string[] nomeVertices = new string[numVertices];
+            for (int i = 0; i < numVertices; i++)
+            {
+                Console.WriteLine("digite o nome do vértice");
+                nomeVertices[i] = Console.ReadLine();
+            }
             for (int i = 0; i < numVertices; i++)
             {
                 for (int j = 0; j < numArestas; j++)
                 {
-                    Console.WriteLine($"Confirme as ligações entre o vértice {i} e o vértice {j} com bits");
+                    Console.WriteLine($"Confirme as ligações entre o vértice '{nomeVertices[i]}' e o vértice '{nomeVertices[j]}' com bits");
                     grafo[i, j] = int.Parse(Console.ReadLine());
                 }
-              
+
             }
             Console.WriteLine("O grafo representado em matrizes adjacentes é: ");
             for (int i = 0; i < numVertices; i++)
             {
                 for (int j = 0; j < numArestas; j++)
                 {
-                    Console.Write(grafo[i, j] + "\t");  
+                    Console.Write(grafo[i, j] + "\t");
                 }
                 Console.WriteLine();
             }
