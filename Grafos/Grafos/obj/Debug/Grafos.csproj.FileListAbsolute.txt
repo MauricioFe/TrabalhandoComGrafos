@@ -1,0 +1,7 @@
+C:\Users\mauri\Desktop\Treinamento\ProvasAprovadas\Sessao4SC\Projetos para consulta\TrabalhandoComGrafos\Grafos\Grafos\bin\Debug\Grafos.exe.config
+C:\Users\mauri\Desktop\Treinamento\ProvasAprovadas\Sessao4SC\Projetos para consulta\TrabalhandoComGrafos\Grafos\Grafos\bin\Debug\Grafos.exe
+C:\Users\mauri\Desktop\Treinamento\ProvasAprovadas\Sessao4SC\Projetos para consulta\TrabalhandoComGrafos\Grafos\Grafos\bin\Debug\Grafos.pdb
+C:\Users\mauri\Desktop\Treinamento\ProvasAprovadas\Sessao4SC\Projetos para consulta\TrabalhandoComGrafos\Grafos\Grafos\obj\Debug\Grafos.csprojAssemblyReference.cache
+C:\Users\mauri\Desktop\Treinamento\ProvasAprovadas\Sessao4SC\Projetos para consulta\TrabalhandoComGrafos\Grafos\Grafos\obj\Debug\Grafos.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\Treinamento\ProvasAprovadas\Sessao4SC\Projetos para consulta\TrabalhandoComGrafos\Grafos\Grafos\obj\Debug\Grafos.exe
+C:\Users\mauri\Desktop\Treinamento\ProvasAprovadas\Sessao4SC\Projetos para consulta\TrabalhandoComGrafos\Grafos\Grafos\obj\Debug\Grafos.pdb
